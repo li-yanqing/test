@@ -5,3 +5,6 @@ modify at user2
 commit at 4 by user2
 modify i want a commit by user2 at user2
 commit at 3 by user1
+
+commit at 2 by user2
+
