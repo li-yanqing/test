@@ -1,5 +1,7 @@
 file add by user1 and rebase by user2
 modify at user1
+something commit by user1
+But I forgot something ,amend commit it 
 modify at user2
 commit at 3 by user1
 before user1 amend commit, I want to push a change by user2
